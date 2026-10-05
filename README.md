@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ivander Justine Savero 👋
 
-<!--
-**IvanderJustineSavero12/IvanderJustineSavero12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at State Polytechnic of Batam  
+💻 Full-Stack Developer | Flutter Developer  
+🚀 Building web & mobile applications with modern technologies
 
-Here are some ideas to get you started:
+I enjoy turning ideas into functional software through
+full-stack development, mobile applications, backend systems,
+and real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+Flutter • Dart • Laravel • PHP • Supabase • MySQL • Firebase • REST API • Git
+
+### 🚀 Currently Working On
+
+🐾 PawKu — Pet Care Ecosystem  
+♻️ Voltawaste — IoT & AI-based E-Waste Management  
+🌱 ECOZYNE — Digital Organic Waste Management Platform
